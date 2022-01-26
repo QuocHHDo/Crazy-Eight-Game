@@ -4,6 +4,6 @@ Project 2 for CSC 103: Introduction to Computing (Spring 2019)
 
 Language: C++
 
-Replication of the Crazy Eights Card Game
+Replication of the Crazy Eights Card Game which is played against 3 AIs. 
 
 Rules of the game is available in the following link: https://bicyclecards.com/how-to-play/crazy-eights/
